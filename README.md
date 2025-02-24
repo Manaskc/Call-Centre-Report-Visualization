@@ -1,5 +1,5 @@
-# Call Center-Dashboard
-Call Center Report 2023 Dashoboard Using Excel & Tableau
+# Call Centre-Dashboard
+Call Centre Report 2023 Dashoboard Using Excel & Tableau
 
 🔹Interactive Excel Dashboard:
 ✅ Utilized Power Query for data transformation
@@ -11,7 +11,7 @@ Call Center Report 2023 Dashoboard Using Excel & Tableau
 ✅ Aggregated key metrics like call count, revenue, and customer satisfaction rate
 ✅ Created ranking insights for each representative
 
-⏹️ Call center Report Dashboard ⏹️ 📊 
+⏹️ Call centre Report Dashboard ⏹️ 📊 
 
 Tools:- Excel (Power Query, DAX, M-language, Various Charts, Power Pivot, Pivot Tables)
 
